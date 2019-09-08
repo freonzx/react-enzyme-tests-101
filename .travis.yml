@@ -4,5 +4,4 @@ node_js:
   - '8.11.2'
 
 script:
-  - yarn install
-  - yarn test
+  - npm run test
